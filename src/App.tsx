@@ -1,5 +1,5 @@
 import React from 'react';
-import SchedulePage from './modules/SchedulePage';
+import SchedulePage from './scheduler/SchedulePage';
 // import './App.css';
 
 function App() {

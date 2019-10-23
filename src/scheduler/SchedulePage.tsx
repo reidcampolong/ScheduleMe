@@ -1,7 +1,8 @@
 import React from 'react';
+import ScheduleModule from '../modules/ScheduleModule';
 
 const SchedulePage = () => {
-  return <>Scheduler home page</>;
+  return <ScheduleModule />;
 };
 
 export default SchedulePage;
