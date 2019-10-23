@@ -9,6 +9,7 @@ const StyledYear = styled.div`
   border-style: solid;
   border-color: orange;
   border-width: 1px;
+  background-color: orange;
 
   min-width: 60px;
   min-height: 60px;
